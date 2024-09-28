@@ -25,8 +25,11 @@ This project is a responsive single-page website with animations, designed to pr
 #Features
 
 1. Responsive Design: Adapts to different screen sizes for optimal viewing on desktops, tablets, and mobile devices.
+
 2. Smooth Navigation: Includes smooth scrolling for navigation links to provide a better user experience.
+   
 3. Animated Content: Main section features a fade-in animation to enhance visual appeal.
+
 
 #Technologies Used
 
